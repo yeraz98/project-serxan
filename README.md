@@ -13,4 +13,4 @@ pkg install python curl -y && curl -LO [https://raw.githubusercontent.com/yeraz9
 ​Quraşdırma bitdikdən sonra sadəcə bunu yazın:
 attack hədəfsayt.com
 ​Geliştirici: yeraz98
-Email: serxanxudabendeyev13@gmail.com
+
